@@ -63,7 +63,7 @@ The app is designed to run locally with minimal setup.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/siddhantchasta/postcraft.git
 cd postcraft
 ```
 
