@@ -123,6 +123,24 @@ That’s it — the app should run locally.
 - The backend builds a structured prompt using those parameters.
 - The model response streams back in real time.
 - The result is displayed inside a LinkedIn-style preview.
-- Users can copy, regenerate, or clear the result.
+- **Users can copy, regenerate, or clear the result.**
+
+---
+
+## Screenshots
+
+### Home Interface
+
+| | |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/11879edf-60bb-4f67-bd0c-d9bc4dbed389" width="100%"/> | <img src="https://github.com/user-attachments/assets/f056138b-d232-4c0f-90a1-ab4888ce892a" width="100%"/> |
+
+---
+
+### Generated Post Demo
+
+| | | |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/596922db-c38f-4060-8b56-0c85e9238d92" width="100%"/> | <img src="https://github.com/user-attachments/assets/66ec911b-79ac-4ff6-9270-87b55774c85d" width="100%"/> | <img src="https://github.com/user-attachments/assets/4d9b9173-7120-49cd-8672-a6d6e2bffa9a" width="100%"/> |
 
 ---
